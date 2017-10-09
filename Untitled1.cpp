@@ -1,5 +1,5 @@
 #include <iostream>
-#define inf 2147483647
+#define inf 2147483647 
 
 using namespace std;
 //Algoritmo de dijkstra
@@ -28,6 +28,6 @@ struct nodo
  
 int main()
 {
-		//holi lololol xdxd
+		//holi lololol xdxd y chaui
 	return 0;
 }
