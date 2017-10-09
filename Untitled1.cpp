@@ -1,5 +1,6 @@
 #include <iostream>
 #define inf 2147483647
+
 using namespace std;
 //Algoritmo de dijkstra
 //https://github.com/jariasf/Online-Judges-Solutions/blob/master/Algorithms/C%2B%2B/Graph%20Theory/Algoritmo%20de%20Dijkstra.cpp
