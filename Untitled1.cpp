@@ -28,6 +28,6 @@ struct nodo
  
 int main()
 {
-		//holi
+		//holi lololol xdxd
 	return 0;
 }
